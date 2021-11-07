@@ -1,4 +1,4 @@
-# Image in a Clip-path 
+# Image in a Clip-path 🥇 ✍️
 ``` by George Moller _georgemoller```
 
 ### CSS property
@@ -11,7 +11,7 @@
 
 ```
 
-#### Example of its usage is down below :grin:
+#### Example of its usage is down below 🥇
 <img src="./images/FB0e2mBXIAQoLUD.jpg" alt="clip-path css by George Moller _georgemoller" />
 
 
